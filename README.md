@@ -80,7 +80,7 @@
 <details align="center">
   <summary> <samp>&#9776; Read More</samp></summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obastosleandro&show_icons=true&locale=en&layout=compact" alt="obastosleandro" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obastosleandro&show_icons=true&locale=en&layout=compact" alt="obastosleandro" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=obastosleandro&show_icons=true&locale=en" alt="obastosleandro" /> </p>
 
