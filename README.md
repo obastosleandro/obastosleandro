@@ -18,7 +18,7 @@
 <!-- Organisation  -->
 <p align="center">
  <samp>
-    「 From Rio de Janeiro, Brazil 」
+    「 From Rio de Janeiro, South America, Brazil 」
    <br>
     「 Front-End Developer 」
    <br>
