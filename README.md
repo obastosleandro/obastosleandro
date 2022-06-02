@@ -14,7 +14,6 @@
 </samp>
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 />
 </h3>
-
 <!-- Organisation  -->
 <p align="center">
  <samp>
@@ -27,7 +26,6 @@
    <br>
  </samp>
 </p>
-
 <!-- Programming Languages and Tools -->
 <h4 align="center">Languages and Tools:</h4>
 
@@ -38,12 +36,12 @@
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <!-- CSS  -->
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a>
-
  <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a>
  </p>
  <p align="center">
- 
+ <!-- NODEJS -->
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  <!-- JavaScript -->
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  <!--REACT -->
@@ -54,16 +52,14 @@
  <p align="center">
  <!-- VSCODE -->
  <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
- <!-- NODEJS -->
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  <!-- GIT -->
+ <!-- Docker -->
+ <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true" alt="git" width="50" height="40"/> </a>
  <!-- GITHUB -->
  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
  </p>
  <p align="center">
- <!-- Docker -->
- <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
  <!-- SQL -->
  <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="sql" width="40" height="40"/> </a>
  <!-- Insomnia -->
