@@ -19,7 +19,7 @@
  <samp>
     「 From Rio de Janeiro, Brazil - South America 」
    <br>
-    「 Front-End Developer 」
+    「 Full-Stack Developer 」
    <br>
     「 I am recent Software Engineer looking for opportunities and<br> collabaration in projects related to Front-End development. 」
    <br>
