@@ -30,28 +30,22 @@
 <h4 align="center">Languages and Tools:</h4>
 
 <p align="center">
- <!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" alt="html5" width="40" height="40"/> </a>
- <!-- Redux  -->
+  <!-- Redux  -->
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <!-- CSS  -->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a>
- <!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a>
- </p>
- <p align="center">
- <!-- NODEJS -->
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
- <!-- JavaScript -->
-<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  <!--REACT -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/ProHatp/ProHatp/blob/main/source.gif" alt="react" width="40" height="40"/> </a>
+  <!-- NODEJS -->
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <!-- Jest -->
+ <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  </p>
  <p align="center">
  <!-- VSCODE -->
  <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
+ <!-- JWT - JSON Web Token -->
+ <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
  <!-- GIT -->
  <!-- Docker -->
  <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
@@ -68,6 +62,8 @@
  <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://camo.githubusercontent.com/dcc58b898f245508bf65e8a994403efefa9b38124dcfbb62a37443cbc0beb6d2/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6d7973716c2f6d7973716c5f504e4733362e706e67" alt="sql" width="40" height="40"/> </a>
  <!-- Express -->
  <a href="https://expressjs.com/" target="_blank"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="sql" width="40" height="40"/> </a>
+ <!-- Mongo -->
+ <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://www.seekpng.com/png/full/383-3838960_mongodb-png.png" alt="nosql" width="40" height="40"/> </a>
 </p>
 <br>
 <!-- Details Section-->
