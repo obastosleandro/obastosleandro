@@ -79,12 +79,6 @@
 </p>
 <br>
 <!-- Details Section-->
-<details align="center">
-  <summary> <samp>&#9776; Read More</samp></summary>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obastosleandro&show_icons=true&locale=en&layout=compact" alt="obastosleandro" /> </p>
-
-   <br>
    <br>
    <!-- A Curiosity About Me -->
      <samp> ⚡ Fun fact: I am a systems developer and designer! </samp><a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a>
